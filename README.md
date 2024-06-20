@@ -30,4 +30,4 @@ API
 - This app utilizes the GNews public API for fetching news articles. Visit their website for more information: [GNews API](https://gnews.io/)
 
 LIVE WEBSITE 
-https://react-news-ba8usxrzs-suyash-nahars-projects.vercel.app/
+https://react-news-app-rho-tan.vercel.app/
